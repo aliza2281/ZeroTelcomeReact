@@ -1,0 +1,65 @@
+body {
+    background: url('C:\Users\עליזה\Desktop\visual code\react\zerotelcomereact\src\images\pexels-photo-404280.jpeg');
+    background-position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: wheat;
+    height: 100%
+}
+
+.App {
+    text-align: center;
+}
+
+
+.App-link {
+    color: #5d6064;
+}
+
+
+.text-white {
+    color: white;
+}
+
+.navber-style {
+    background-color:black;
+    font-size: 20px;
+}
+
+.side-logo {
+    color: rgb(25, 25, 155);
+    font-size: 30px;
+}
+
+.packages-style {
+    float: left;
+    width: 315px;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #999;
+    border-right: 1px solid #999;
+    box-shadow: 0 1px 1px #cccccc;
+    height: 240px;
+    padding-top: 30px;
+    margin-left: 150px;
+    margin-top: 50px;
+
+}
+a:hover {
+    color:gray
+}
+a{
+    color: white;
+
+}
+.alert {
+    border-color: black;
+    background-color:black;
+    color: white; 
+    font-size: 20px;  
+
+}
+
+.warning{
+    color: red
+}
